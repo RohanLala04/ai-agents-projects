@@ -1,8 +1,6 @@
 """
-CSCI 561 - Foundations of Artificial Intelligence
-Problem 1: 3D Traveling Salesman Problem using Genetic Algorithm
+3D Traveling Salesman Problem using Genetic Algorithm
 Name: Rohan Kumar Lala
-USC ID: 1220932027
 """
 
 import random
@@ -243,4 +241,5 @@ def main():
     write_output(route, distance, cities)
 
 if __name__ == "__main__":
+
     main()
